@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/web_dev_tools/static/css/main.073c9b0a.css",
+    "main.js": "/web_dev_tools/static/js/main.fe579db3.js",
+    "webfontloader.js": "/web_dev_tools/static/js/webfontloader.c39b1a50.chunk.js",
+    "static/js/787.080222f6.chunk.js": "/web_dev_tools/static/js/787.080222f6.chunk.js",
+    "reactVendor.js": "/web_dev_tools/static/js/reactVendor.4b460806.js",
+    "static/media/logo.svg": "/web_dev_tools/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/web_dev_tools/index.html",
+    "main.css.map": "/web_dev_tools/main.css.map",
+    "main.073c9b0a.css.map": "/web_dev_tools/static/css/main.073c9b0a.css.map",
+    "main.fe579db3.js.map": "/web_dev_tools/static/js/main.fe579db3.js.map",
+    "webfontloader.c39b1a50.chunk.js.map": "/web_dev_tools/static/js/webfontloader.c39b1a50.chunk.js.map",
+    "787.080222f6.chunk.js.map": "/web_dev_tools/static/js/787.080222f6.chunk.js.map",
+    "reactVendor.4b460806.js.map": "/web_dev_tools/static/js/reactVendor.4b460806.js.map"
+  },
+  "entrypoints": [
+    "static/js/reactVendor.4b460806.js",
+    "main.css",
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fe579db3.js"
+  ]
+}
